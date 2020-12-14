@@ -2,7 +2,7 @@ import turtle as t
 import random as rd
 import time as ti
 
-# defining caterpillar
+# Defining the Caterpillar
 
 t.bgcolor('whitesmoke')
 caterpillar = t.Turtle()
@@ -12,10 +12,8 @@ caterpillar.penup()
 caterpillar.hideturtle()
 
 
+#  Defining the leaf = food
 
-
-
-#  defining the leaf = food
 leaf = t.Turtle()
 leaf_shape = 'square'
 t.register_shape('leaf', leaf_shape)
@@ -26,9 +24,8 @@ leaf.hideturtle()
 leaf.speed()
 
 
-
-
 # To start the game
+
 game_started  = False
 text_turtle = False
 text_turtle = t.Turtle()
@@ -36,11 +33,8 @@ text_turtle.write('Press S to start',align='center',font=('Arial','18','bold'))
 text_turtle.hideturtle()
 
 
-
-
-
-
- # for score
+ # For score
+ 
 score_turtle = t.Turtle()
 score_turtle.hideturtle()
 score_turtle.speed(0)
