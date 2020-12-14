@@ -4,8 +4,8 @@
 
 
 <h1>Imported Modules</h1>
-1 - import turtle as t
-2 - import random as rd
-3 - import time as ti
+1 - import turtle as t<br>
+2 - import random as rd<br>
+3 - import time as ti<br>
 
 
