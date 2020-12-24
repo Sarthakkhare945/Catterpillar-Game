@@ -1,6 +1,6 @@
 # Catterpillar-Game
 
-<p>It's a game where the caterpillar have to eat the food.Eating the food will increase the score of user by using turtle</p>
+<p>It's a game where the caterpillar have to eat the food.Eating the food will increase the score of user.It is developed by using python's library named turtle</p>
 
 
 <h1>Imported Modules</h1>
